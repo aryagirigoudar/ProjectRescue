@@ -1,1 +1,2 @@
-SVM for Human Classifying 
+1. SVM for Human Classifying 
+2. 
