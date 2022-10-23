@@ -5,7 +5,5 @@ and then gender, age and posture
 3. Detect Age of Human and Gender also 
 4. 
 
-
-
 Source Links 
 1. https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/
